@@ -1,0 +1,2 @@
+C:\Users\ygzat\Desktop\Crpyto Source Code\Crypto\obj\Debug\Crypto.vbproj.AssemblyReference.cache
+C:\Users\ygzat\Desktop\Crpyto Source Code\Crypto\obj\Debug\Crypto.vbproj.CoreCompileInputs.cache
